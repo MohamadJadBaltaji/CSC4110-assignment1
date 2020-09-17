@@ -1,4 +1,6 @@
-# Github and git
+# github and git
+
+> > > > > > > development
 
 # CSC4110-assignment1
 
